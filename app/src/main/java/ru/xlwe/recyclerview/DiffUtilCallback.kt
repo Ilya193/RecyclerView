@@ -1,4 +1,4 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 import androidx.recyclerview.widget.DiffUtil
 

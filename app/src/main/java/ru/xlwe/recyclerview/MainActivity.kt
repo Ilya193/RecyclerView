@@ -1,11 +1,11 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import androidx.recyclerview.widget.RecyclerView
-import ru.xlwe.lesson2.databinding.ActivityMainBinding
+import ru.xlwe.recyclerview.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity(), Listeners {
     private val binding: ActivityMainBinding by lazy {

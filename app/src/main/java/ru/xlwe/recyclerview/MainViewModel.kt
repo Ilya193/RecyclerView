@@ -1,4 +1,4 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 import android.content.Context
 import android.view.LayoutInflater
@@ -11,8 +11,8 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import ru.xlwe.lesson2.databinding.ItemTestBinding
-import ru.xlwe.lesson2.databinding.ItemTestSubBinding
+import ru.xlwe.recyclerview.databinding.ItemTestBinding
+import ru.xlwe.recyclerview.databinding.ItemTestSubBinding
 
 //recyclerview inside recyclerview
 

@@ -1,4 +1,4 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 import android.content.Context
 import android.util.AttributeSet

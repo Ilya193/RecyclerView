@@ -1,12 +1,12 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
-import ru.xlwe.lesson2.databinding.ItemInfoBinding
-import ru.xlwe.lesson2.databinding.JokeBinding
+import ru.xlwe.recyclerview.databinding.ItemInfoBinding
+import ru.xlwe.recyclerview.databinding.JokeBinding
 
 class JokeAdapter(
     private val listeners: Listeners

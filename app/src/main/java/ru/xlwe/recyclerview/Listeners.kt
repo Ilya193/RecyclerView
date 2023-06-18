@@ -1,4 +1,4 @@
-package ru.xlwe.lesson2
+package ru.xlwe.recyclerview
 
 interface Listeners {
     fun onDelete(position: Int)
